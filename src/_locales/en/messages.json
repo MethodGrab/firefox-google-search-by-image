@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Search By Image (using Google)",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Start a Google \"search by image\" search directly from an image on a website",
+    "description": "Description of the extension."
+  },
+
+  "searchByImageContextMenuLabel": {
+    "message": "Search Google with this image",
+    "description": "The label to use in the context menu for searching by image"
+  }
+}
