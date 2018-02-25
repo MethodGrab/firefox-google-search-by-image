@@ -1,6 +1,19 @@
 # Google Search By Image
 > A Firefox extension that adds Google’s "search by image" search to the context menu shown when you right click on an image.
 
+<p style="text-align: center">
+	<img src="media/screenshot-1.png" alt="Extension screenshot">
+</p>
+
+
+## Pros
+- Fast!
+- No excessive permission requests
+
+
+## Restrictions
+- Only works with `http` & `https` URLs (not `file`, `ftp`, `data`, etc.)
+
 
 ## Development
 
@@ -10,7 +23,7 @@
 
 ## Release Process
 
-After making changes to the extension, do the following to publish a new version:
+To publish a new version:
 
 1. `yarn run test`
 1. Bump the `version` in `src/manifest.json`
