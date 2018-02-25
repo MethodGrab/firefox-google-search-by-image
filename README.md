@@ -1,4 +1,4 @@
-# Search By Image (using Google)
+# Google Search By Image
 > A Firefox extension that adds Google’s "search by image" search to the context menu shown when you right click on an image.
 
 

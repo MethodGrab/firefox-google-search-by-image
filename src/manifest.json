@@ -6,7 +6,7 @@
   "default_locale": "en",
   "developer": {
     "name": "MethodGrab",
-    "url": "https://github.com/methodgrab/firefox-search-by-image-using-google"
+    "url": "https://github.com/methodgrab/firefox-google-search-by-image"
   },
   "icons": {
     "48": "img/google-logo.svg",
@@ -14,7 +14,7 @@
   },
   "applications": {
     "gecko": {
-      "id": "search-by-image-using-google@mint.as",
+      "id": "google-search-by-image@mint.as",
       "strict_min_version": "56.0"
     }
   },
