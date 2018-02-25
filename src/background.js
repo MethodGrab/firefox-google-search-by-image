@@ -13,4 +13,7 @@ browser.contextMenus.create({
 		16: 'img/google-logo.svg',
 		32: 'img/google-logo.svg',
 	},
+	targetUrlPatterns: [
+		'*://*/*',
+	],
 });
