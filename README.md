@@ -1,4 +1,4 @@
-# Google Search By Image
+# Google Search By Image [![Build Status](https://travis-ci.org/MethodGrab/firefox-google-search-by-image.svg?branch=master)](https://travis-ci.org/MethodGrab/firefox-google-search-by-image)
 > A Firefox extension that adds Google’s "search by image" search to the context menu shown when you right click on an image.
 
 <p style="text-align: center">
