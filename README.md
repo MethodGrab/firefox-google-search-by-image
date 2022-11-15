@@ -1,9 +1,10 @@
-# Google Search By Image [![Build Status](https://travis-ci.org/MethodGrab/firefox-google-search-by-image.svg?branch=master)](https://travis-ci.org/MethodGrab/firefox-google-search-by-image)
+# Google Search By Image
 
-[![Version](https://img.shields.io/amo/v/google-search-by-image-new)][amo]
-[![Rating](https://img.shields.io/amo/rating/google-search-by-image-new)][amo]
-[![Users](https://img.shields.io/amo/users/google-search-by-image-new)][amo]
-[![Downloads](https://img.shields.io/amo/dw/google-search-by-image-new)][amo]
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MethodGrab/firefox-google-search-by-image/CI?style=flat-square)](https://github.com/MethodGrab/firefox-google-search-by-image/actions/workflows/CI.yaml)
+[![Version](https://img.shields.io/amo/v/google-search-by-image-new?style=flat-square)][amo]
+[![Rating](https://img.shields.io/amo/rating/google-search-by-image-new?style=flat-square)][amo]
+[![Users](https://img.shields.io/amo/users/google-search-by-image-new?style=flat-square)][amo]
+[![Downloads](https://img.shields.io/amo/dw/google-search-by-image-new?style=flat-square)][amo]
 
 > A Firefox extension that adds Google’s "search by image" search to the context menu shown when you right click on an image.
 
