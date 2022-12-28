@@ -1,6 +1,6 @@
 # Google Search By Image
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MethodGrab/firefox-google-search-by-image/CI?style=flat-square)](https://github.com/MethodGrab/firefox-google-search-by-image/actions/workflows/CI.yaml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MethodGrab/firefox-google-search-by-image/CI.yaml?branch=master&style=flat-square)](https://github.com/MethodGrab/firefox-google-search-by-image/actions/workflows/CI.yaml)
 [![Version](https://img.shields.io/amo/v/google-search-by-image-new?style=flat-square)][amo]
 [![Rating](https://img.shields.io/amo/rating/google-search-by-image-new?style=flat-square)][amo]
 [![Users](https://img.shields.io/amo/users/google-search-by-image-new?style=flat-square)][amo]
