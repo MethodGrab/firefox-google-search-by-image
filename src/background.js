@@ -1,5 +1,5 @@
 const searchByImage = ( info, tab ) => {
-	const url = `https://www.google.com/searchbyimage?image_url=${encodeURIComponent( info.srcUrl )}`;
+	const url = `https://lens.google.com/uploadbyurl?url=${encodeURIComponent( info.srcUrl )}`;
 	browser.tabs.create({ url, active : true });
 };
 
